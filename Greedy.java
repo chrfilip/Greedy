@@ -6,9 +6,8 @@
 /*Class for detecting a seed set S.*/
 /**
  *
- * @authors 
- * Xristoforos Filippou - chrfilip@inf.uth.gr 
- * Euaggelos Kanoulas - evkanoul@inf.uth.gr
+ * @author
+ * Christoforos Filippou
  */
 
 
